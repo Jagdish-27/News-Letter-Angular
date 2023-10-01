@@ -1,0 +1,14 @@
+@import "../../../styles.scss";
+.btn {
+  padding: 16px 10px;
+  background-color: $Dark-Slate-Grey;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.btn:hover {
+  background-color: $color-Tomato;
+  cursor: pointer;
+}
